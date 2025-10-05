@@ -347,7 +347,7 @@ Se representará en un mapa con un gradiente de color en base a la predicción d
 
 Se representará en un mapa con un gradiente de color en base a la predicción de la densidad de polen esperada.
 
-<img width="702" height="468" alt="image" src="https://github.com/user-attachments/assets/66e14c13-4603-4bb2-8534-df8fff8cda45" />
+<img width="420" height="226" alt="image" src="https://github.com/user-attachments/assets/a1d0afd8-ceec-4e7e-a3e2-7b27c19a4f72" />
 
 <img width="730" height="430" alt="image" src="https://github.com/user-attachments/assets/ab2d4c07-7718-4363-ae05-6c5434594560" />
 
